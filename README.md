@@ -1,2 +1,5 @@
 # agent-based-fleet-management
-An agent based fleet management model for first and last mile connectivity to transit networks
+An agent based fleet management model for first and last mile connectivity to transit networks.
+
+The folder [images](https://github.com/transnetlab/agent-based-fleet-management/tree/main/images) contains screenshots of AnyLogic interface for Main, Passenger and Vehicle agents. Main is the top-level agent where all the other agents reside. The image file [main.png](https://github.com/transnetlab/agent-based-fleet-management/blob/main/images/Main.PNG) shows the different AnyLogic constructs including variables, parameters, collection objects, events and functions. The Python Connector object to call VRP code also resides in Main agent. The left-hand side of the image shows the Project structure. Similarly, the AnyLogic constructs and state charts for Passenger and Vehicle are shown in figures [Passenger.png](https://github.com/transnetlab/agent-based-fleet-management/blob/main/images/Passenger.PNG) and [Vehicle.png](https://github.com/transnetlab/agent-based-fleet-management/blob/main/images/Vehicle.PNG) respectively.
+
